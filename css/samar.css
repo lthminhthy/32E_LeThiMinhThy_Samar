@@ -532,6 +532,7 @@ header {
     color: white;
     font-size: 23px;
     border-radius: 10px;
+    cursor:pointer;
 
 }
 
